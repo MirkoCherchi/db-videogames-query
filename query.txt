@@ -175,7 +175,7 @@ INNER JOIN awards ON awards.id = award_videogame.award_id
 
 6- Selezionare categorie e classificazioni PEGI dei videogiochi che hanno ricevuto recensioni da 4 e 5 stelle, mostrandole una sola volta (3363)
 
-
+////
 
 7- Selezionare quali giochi erano presenti nei tornei nei quali hanno partecipato i giocatori il cui nome inizia per 'S' (474)
 
@@ -205,7 +205,7 @@ WHERE awards.name = 'Gioco dell''anno' and award_videogame.year = 2018
 
 9- Selezionare i giocatori che hanno giocato al gioco più atteso del 2018 in un torneo del 2019 (991)
 
-
+////
 
 *********** BONUS ***********
 
